@@ -39,9 +39,12 @@ if (a && b) {
 }
 ```
 ### Examples of projects
- [Markdown CV](https://alex-miron.github.io/rsschool-cv/cv) /
+ [Markdown CV](https://alex-miron.github.io/rsschool-cv/cv)
+
 ********* 
 ## Education
 Vitebsk State Technological University majoring in Instrumentation and Control engineering
+
+********* 
 ## English
 **A2** (I can read the documentation by resorting to an online translator)
